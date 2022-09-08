@@ -1,4 +1,9 @@
 print('domanhkhoi')
 print('vttn')
 thanh nha
+<<<<<<< HEAD
+thanh nha
+=======
+conflict kakaka
+>>>>>>> 0e5d7f0d472802eb79ba10903add6a5f6552b156
 
