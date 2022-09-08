@@ -1,6 +1,4 @@
-print('domanhkhoi')
-print('vttn')
-thanh nha
+
 
 
 
