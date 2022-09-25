@@ -1,2 +1,0 @@
-# dmk_project
-vttnvttnvttnvttn

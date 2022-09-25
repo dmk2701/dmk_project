@@ -1,8 +1,0 @@
-Create a dmk.txt
-dmk
-<<<<<<< HEAD
-1003
-
-=======
-2701
->>>>>>> a89d718edba468bfebe3c5d6ec347c90a67cfcea
